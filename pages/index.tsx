@@ -25,7 +25,7 @@ export default function HomePage() {
           <p className="text-lg max-w-3xl text-gray-600">
                 Research Paper (coming soon) <br />
                 Project Blog (coming soon) - The Alan Turing Institute <br />
-                Policy Brief (coming soon) - Cambridge University <br />
+                Policy Brief (coming soon) - The University of Cambridge <br />
 
          </p>
         </div>
