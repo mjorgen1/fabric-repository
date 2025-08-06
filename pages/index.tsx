@@ -23,7 +23,7 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto text-left">
           <h2 className="text-3xl md:text-4xl font-semibold mb-6">Key Resources</h2>
           <p className="text-lg max-w-3xl text-gray-600">
-                Research Paper (coming soon) 
+                Research Paper (coming soon) <br />
                 Project Blog (coming soon) - The Alan Turing Institute <br />
                 Policy Brief (coming soon) - Cambridge University <br />
 
